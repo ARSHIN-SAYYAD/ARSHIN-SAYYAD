@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Web-development, Python and C++.
+- 🌱 I’m currently learning Data Science and Web dev.
 - 💬 Ask me about Science and Biology.
 - 📫 How to reach me: sayyadarshin07@gmail.com
 - LinkedIn -> Arshin-Sayyad
